@@ -224,7 +224,7 @@ npm run build
 1. Add the TypeScript interface to `src/api/types.ts`
 2. Add the fetch function to `src/api/tidalApi.ts` using `apiFetch<T>()`
 3. Use it in a page component or hook
-
+```
 ---
 
 ## 📄 License
